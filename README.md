@@ -1,2 +1,2 @@
 # blog
-Projekt bloga.
+Projekt bloga
